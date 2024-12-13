@@ -34,6 +34,7 @@ The server checks for errors during query execution and ensures meaningful error
 ### 5. Testing with Altair
 Altair is used to send queries to the `/graphql` endpoint, making it easy to explore and test the API.
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/66ff6791-30eb-4926-8b6f-4fcd055681bf" />
 ---
 
 ## 🚀 How to Run the Project
